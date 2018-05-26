@@ -21,6 +21,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ToneChart" />
+        <activity android:name=".PersonalityOverview" />
+        <activity android:name=".PersonalityConsumption" />
+        <activity android:name=".PersonalityValues" />
+        <activity android:name=".PersonalityNeeds" />
+        <activity android:name=".PersonalityPersonality" />
     </application>
 
 </manifest>
